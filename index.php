@@ -48,16 +48,16 @@
         <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link" href="index.php" style="border-radius: 22px;">Home</a>
+                    <a class="nav-link" href="index.html" style="border-radius: 22px;">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="portfolio.php" style="border-radius: 22px;">Portfolio</a>
+                    <a class="nav-link" href="portfolio.html" style="border-radius: 22px;">Portfolio</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="services.php" style="border-radius: 22px;">Services</a>
+                    <a class="nav-link" href="services.html" style="border-radius: 22px;">Services</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="contact.php" style="border-radius: 22px;">Contact</a>
+                    <a class="nav-link" href="contact.html" style="border-radius: 22px;">Contact</a>
                 </li>
             </ul>
         </div>
